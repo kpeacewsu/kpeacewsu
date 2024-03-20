@@ -1,4 +1,4 @@
-# Hi there, I'm Kriti Dubey! 👋
+# Hi there, I'm Kriti! 👋
 
 I'm a passionate Software Developer currently mastering the art of Computer Science at Wayne State University, where I boast a CGPA of 3.81. With a strong foundation in Information Science and Technology (CGPA: 3.9 from Dr. Ambedkar Institute of Technology), I've embarked on a journey through various realms of software engineering, from internships to full-time roles in dynamic tech landscapes.
 
