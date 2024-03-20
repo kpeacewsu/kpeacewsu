@@ -24,9 +24,11 @@ I'm a passionate Software Developer currently enrolled in a Master's program in 
 - Advanced concepts in cloud computing and containerization to further enhance my skills in deploying scalable and robust applications.
 
 ## 📫 How to reach me
+## 📫 How to reach me
 - **Email**: kritid@wayne.edu
-- **LinkedIn**: [https://linkedin.com/in/dkriti](Kriti)
-- **GitHub**: [https://github.com/kpeacewsu] (You're here!)
+- **LinkedIn**: [Kriti](https://linkedin.com/in/dkriti)
+- **GitHub**: [You're here!](https://github.com/kpeacewsu)
+
 
 Feel free to explore my repositories and reach out if you're interested in collaborating on a project or have any questions!
 
